@@ -25,7 +25,7 @@ Software Developer
 
 <p float="left">
     <a href="http://www.github.com/3vli"><img src="https://github-readme-stats-sigma-nine-97.vercel.app/api?username=3vli&show_icons=true&hide=&count_private=true&theme=radical&hide_border=true&show_icons=true" alt="3vli's GitHub stats" /></a>
-    <a href="http://www.github.com/3vli"><img src="https://streak-stats.demolab.com/?user=DarkyEG&theme=radical&hide_border=true&exclude_days=Fri%2CSat" /></a>
+    <a href="http://www.github.com/3vli"><img src="https://streak-stats.demolab.com/?user=3vli&theme=radical&hide_border=true&exclude_days=Fri%2CSat" /></a>
 </p>
 
 <p align="center">
